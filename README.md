@@ -90,17 +90,7 @@ enum ConsoleOutput {
 
 ## 🤔 여러 명이 동시에 업무 처리하기, Dispatch vs Operation
 
-여러 명의 은행원이 업무를 처리하는 과정을 구현하기 위해서는 동시성 프로그래밍, 동기/비동기에 대한 이해가 필요했습니다. 단번에 이해하기 쉽지 않았지만 여러 코드를 작성해보고 팀원, 캠퍼들과 논의하면서 이해할 수 있었습니다. 아래는 공부하며 작성한 블로그 포스팅입니다.
-
-- 블로그 포스팅 펼쳐보기 🌳
-
-    [GCD, DispatchQueue 이해하기](https://odong-tree.github.io/ios/2021/01/12/dispatchqueue/)
-
-    [GCD, QoS와 DispatchGroup](https://odong-tree.github.io/ios/2021/01/12/dispatchqueue2/)
-
-    [OperationQueue 1편, Operation](https://odong-tree.github.io/ios/2021/01/13/operation/)
-
-    [OperationQueue 2편](https://odong-tree.github.io/ios/2021/01/14/operationqueue/)
+여러 명의 은행원이 업무를 처리하는 과정을 구현하기 위해서는 동시성 프로그래밍, 동기/비동기에 대한 이해가 필요했습니다. 단번에 이해하기 쉽지 않았지만 여러 코드를 작성해보고 팀원, 캠퍼들과 논의하면서 이해할 수 있었습니다. 
 
 ### ✐ Step1
 
